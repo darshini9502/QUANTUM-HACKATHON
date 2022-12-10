@@ -1,1 +1,2 @@
-# QUANTUM-HACKATHON
+# Quantum-Hackathon
+AI-based resume parser
